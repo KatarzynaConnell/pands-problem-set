@@ -2,7 +2,7 @@
 # Solution to question 1
 # The program will ask user to enter any positive integer and it will output the sum of all the numbers between one and that number
 
-# enter the line is Cmder 'python solution-1.py'
+# enter the command in Cmder 'python solution-1.py'
 
 i = int(input("Enter a positive integer: ")) # i is any positive integer
 
