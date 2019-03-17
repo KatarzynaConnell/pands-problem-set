@@ -4,12 +4,18 @@
 
 # enter the command in Cmder 'python solution-1.py'
 
-i = int(input("Enter a positive integer: ")) # i is any positive integer
+# Ask the user for positive integer
 
-total = 1 # running total while I am doing the calculation
+# The value of i is set to any positive integer
+i = int(input("Enter a positive integer: ")) 
 
-while i > 1 :   # i is positive integer larger than 1 - checking statement
+# Create a new value of 'total' and set it to 0 
+total = 0 
+
+# References: https://web.microsoftstream.com/video/20963781-2aea-4302-ba73-5b8f327f4189
+
+while i > 0 :   # i is positive integer larger than 0 - this is the checking statement
     total = total + i # take total on the right, add the current value of i to it, and override the new value of total on the left
-    i = i - 1 # I want next time to come back with the smaller value of i and get closer to the condition that i > 1 is false
+    i = i - 1 # take 1 away from the value of i - I want next time to come back with the smaller value of i and get closer to the condition that i > 1 is false
 
 print(total) # show the result on the screen
