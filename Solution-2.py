@@ -10,8 +10,7 @@ import datetime
 
 if datetime.datetime.today().weekday() == 1:    # if today is Tuesday
   print("Yay! Today begins with the letter T!")
-
-if datetime.datetime.today().weekday() == 3:    # if today is Thursday
+elif datetime.datetime.today().weekday() == 3:    # if today is Thursday
  print("Yay! Today begins with the letter T!")
 
 else:                                           # if today is not Tuesday or Thursday   

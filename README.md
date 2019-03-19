@@ -25,3 +25,7 @@ This repository contains my solutions the the Problem Set 2019 for the module Pr
 ## References
 [Video tutoral by Ian McCloughlin] https://web.microsoftstream.com/video/cd3347c4-8296-4e8c-bb63-01ef5452de17
 
+3. Solution-3.py contains my solution to problem 3 in the problem set.
+## References
+[Video tutoral by Ian McCloughlin] https://web.microsoftstream.com/video/20963781-2aea-4302-ba73-5b8f327f4189
+[Video tutoral by Ian McCloughlin] https://web.microsoftstream.com/video/82894055-5147-487d-ab35-6bf5c51cd889
