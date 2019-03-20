@@ -8,6 +8,9 @@
 i = int(input("Enter a positive integer: "))   # The value of i is set to any positive integer
 
 # References: Ian's video tutorial: https://web.microsoftstream.com/video/3ef695e3-9155-4487-b48e-0867834c76ad
+# References: Ian's video tutorials: https://web.microsoftstream.com/video/20963781-2aea-4302-ba73-5b8f327f4189
+# References: Ian's video tutorials: https://web.microsoftstream.com/video/82894055-5147-487d-ab35-6bf5c51cd889
+
 
 # Use for loop to set the range of numbers to be checked in the if condition
 for x in range(2, i):                   # range starts from 2 as it is the first prime number
