@@ -7,15 +7,15 @@
 
 
 # the number to calculate the square root of
-rootof = 123456.0
-# The initial prediction for the square root
-prediction = 6
+rootof = 98765.0
+# The initial estimation for the square root
+estimate = 320
 
-# Keep counting until the square of estimate is within 0.1 of rootof
-while abs((prediction * prediction) -rootof) > 0.1:
+# Using absolute value keep counting until the square of estimate is within 0.1 of rootof
+while abs((estimate * estimate) - rootof) > 0.1:
 # As per Newton's method how to improve the estimate
 # Adapted from https://tour.golang.org/flowcontrol/1
-prediction -= (prediction * prediction) - rootof) / (2*prediction)
+    estimate -= ((estimate * estimate) - rootof) / (2 * estimate)
 
 # Print the result
-print(f"the square root of {rootof} is approx. {prediction}.")
+print(f"the square root of {rootof} is approx. {estimate}.")
