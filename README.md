@@ -44,6 +44,13 @@ This repository contains my solutions the the Problem Set 2019 for the module Pr
 6. Solution-6.py contains my solution to problem 6 in the problem set.
 ## References
 [Video tutorial by Ian McLoughlin] https://web.microsoftstream.com/video/909896e3-9d9d-45fe-aba0-a1930fe08a7f
-[Stackoverflow] https://stackoverflow.com/a/54857192 
+[Stackoverflow]: https://stackoverflow.com/a/54857192 
 [Python Documentation]: https://docs.python.org/3/library/string.html
 [Programiz]: https://www.programiz.com/python-programming/methods/string/join
+
+7. Solution-7.py contains the solution to problem 7 in the problem set.
+#References:
+[Video tutorial by Iam McLoughlin] https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e
+]Go Language - for loop] https://tour.golang.org/flowcontrol/1
+
+
