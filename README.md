@@ -49,8 +49,15 @@ This repository contains my solutions the the Problem Set 2019 for the module Pr
 [Programiz]: https://www.programiz.com/python-programming/methods/string/join
 
 7. Solution-7.py contains the solution to problem 7 in the problem set.
-#References:
+# References:
 [Video tutorial by Iam McLoughlin] https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e
-]Go Language - for loop] https://tour.golang.org/flowcontrol/1
+[Go Language - for loop] https://tour.golang.org/flowcontrol/1
+
+8. Solution-8.py contains the soltion to problem 8 in the problem set.
+# References:
+[Video tutorial by Iam McLoughlin about fstrings] https://web.microsoftstream.com/video/521b97db-d935-4351-a748-77f044770f24
+[Python Documentation - formatting datetime] https://docs.python.org/3/library/datetime.html
+
+9. 
 
 
