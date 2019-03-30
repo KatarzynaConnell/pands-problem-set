@@ -17,7 +17,7 @@ This repository contains my solutions the the Problem Set 2019 for the module Pr
 
 1.Solution-1.py contains my solution to problem 1 in the problem set.
 
-## References
+References
 [Video tutorial by Ian McLoughlin] https://web.microsoftstream.com/video/20963781-2aea-4302-ba73-5b8f327f4189
 
 2. Solution-2.py contains my solution to problem 2 in the problem set.
