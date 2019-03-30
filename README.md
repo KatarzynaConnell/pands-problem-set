@@ -15,7 +15,7 @@ This repository contains my solutions the the Problem Set 2019 for the module Pr
 
 ## What each file contains
 
-1. Solution-1.py contains my solution to problem 1 in the problem set.
+1.Solution-1.py contains my solution to problem 1 in the problem set.
 
 ## References
 [Video tutorial by Ian McLoughlin] https://web.microsoftstream.com/video/20963781-2aea-4302-ba73-5b8f327f4189
@@ -50,14 +50,24 @@ This repository contains my solutions the the Problem Set 2019 for the module Pr
 
 7. Solution-7.py contains the solution to problem 7 in the problem set.
 # References:
-[Video tutorial by Iam McLoughlin] https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e
+[Video tutorial by Ian McLoughlin] https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e
 [Go Language - for loop] https://tour.golang.org/flowcontrol/1
 
 8. Solution-8.py contains the soltion to problem 8 in the problem set.
 # References:
-[Video tutorial by Iam McLoughlin about fstrings] https://web.microsoftstream.com/video/521b97db-d935-4351-a748-77f044770f24
+[Video tutorial by Ian McLoughlin about fstrings] https://web.microsoftstream.com/video/521b97db-d935-4351-a748-77f044770f24
 [Python Documentation - formatting datetime] https://docs.python.org/3/library/datetime.html
 
-9. 
+9. Solution-9.py contains my solution to problem 9 in the problem set.
+# Referenes:
+[Video tutorial by Ian McLoughlin about modules] https://web.microsoftstream.com/video/b8925ffa-0cf5-4fff-bfb0-b4664f704879
+[Stackoverflow ] https://stackoverflow.com/a/30551984
+
+10. Solution-10.py contains my solution to problem 10 in the problem set.
+# References:
+[Video tutorial by Ian McLoughlin about Matplotlob Pyplot] https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7
+
+
+
 
 
