@@ -5,7 +5,6 @@
 # References:
 # Ian's video tutorial: https://web.microsoftstream.com/video/dca7ddaa-9512-4810-a758-237921e6440e
 
-
 # the number to calculate the square root of
 rootof = 98765.0
 # The initial estimation for the square root

@@ -2,12 +2,8 @@
 # Solution to question 1
 # The program will ask user to enter any positive integer and it will output the sum of all the numbers between one and that number
 
-# enter the command in Cmder 'python solution-1.py'
-
 # Ask the user for positive integer
-
-# The value of i is set to any positive integer
-i = int(input("Enter a positive integer: ")) 
+i = int(input("Enter a positive integer: "))   # The value of i is set to any positive integer
 
 # Create a new value of 'total' and set it to 0 
 total = 0 

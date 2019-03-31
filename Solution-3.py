@@ -4,7 +4,6 @@
 
 # References: Ian's video tutorials: https://web.microsoftstream.com/video/20963781-2aea-4302-ba73-5b8f327f4189
 # References: Ian's video tutorials: https://web.microsoftstream.com/video/82894055-5147-487d-ab35-6bf5c51cd889
-# Enter the command in Cmder 'python Solution-3.py'
 
 # establish the range of numbers to be checked
 for x in range(1000, 10001):        

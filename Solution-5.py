@@ -2,8 +2,6 @@
 # Solution to Question 5
 # The program will ask use to enter positive integer and it will tell if the number is a prime number
 
-# enter the command in Cmder 'python solution-5.py'
-
 # Ask the user for positive integer
 i = int(input("Enter a positive integer: "))   # The value of i is set to any positive integer
 
